@@ -41,7 +41,7 @@ module.exports = {
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250505-WA0055.jpg",
-    ALIVE_MSG: process.env.ALIVE_MSG || "je crush sur big mom😊♻️",
+    ALIVE_MSG: process.env.ALIVE_MSG || "manchester is blue",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "false",
     PREFIX: process.env.PREFIX || ".",
